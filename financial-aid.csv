@@ -1,0 +1,11 @@
+Source,Type,Need-based $ (Include non-need-based aid used to meet need.),Non-need-based $ (Exclude non-need-based aid used to meet need.)
+Federal,Scholarships/Grants,1562383,0
+"State (i.e., all states, not only the state in which your institution is located)",Scholarships/Grants,125121,0
+"Institutional: Endowed scholarships, annual gifts and tuition funded grants, awarded by the college, excluding athletic aid and tuition waivers (which are reported below).",Scholarships/Grants,36230126,1961096
+"Scholarships/grants from external sources (e.g., Kiwanis, National Merit) not awarded by the college",Scholarships/Grants,674392,874130
+Student loans from all sources (excluding parent loans),Self-Help,3671472,4577377
+Federal Work-Study,Self-Help,1605598,0
+"State and other (e.g., institutional) work-study/employment (Note: Excludes Federal Work-Study captured above.)",Self-Help,0,0
+Parent Loans,Other,0,2664816
+Tuition Waivers Reporting is optional. Report tuition waivers in this row if you choose to report them. Do not report tuition waivers elsewhere.,Other,35000,105000
+Athletic Awards,Other,0,0
